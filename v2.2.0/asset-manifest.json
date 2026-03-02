@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.228b4076.css",
-    "main.js": "./static/js/main.d25e48bf.js",
+    "main.css": "./static/css/main.824bfa00.css",
+    "main.js": "./static/js/main.5b65211a.js",
     "static/js/488.2cfc3739.chunk.js": "./static/js/488.2cfc3739.chunk.js",
     "static/media/medium-article-feed.webp": "./static/media/medium-article-feed.a270e3c65044991b685a.webp",
     "static/media/innovation-week-winner.webp": "./static/media/innovation-week-winner.5ca3e375afa9d2cf42fa.webp",
@@ -23,12 +23,12 @@
     "static/media/language-detection-article.webp": "./static/media/language-detection-article.019fcee88de53dedf78e.webp",
     "static/media/signature.png": "./static/media/signature.60f62ddc30539bcbd38d.png",
     "index.html": "./index.html",
-    "main.228b4076.css.map": "./static/css/main.228b4076.css.map",
-    "main.d25e48bf.js.map": "./static/js/main.d25e48bf.js.map",
+    "main.824bfa00.css.map": "./static/css/main.824bfa00.css.map",
+    "main.5b65211a.js.map": "./static/js/main.5b65211a.js.map",
     "488.2cfc3739.chunk.js.map": "./static/js/488.2cfc3739.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.228b4076.css",
-    "static/js/main.d25e48bf.js"
+    "static/css/main.824bfa00.css",
+    "static/js/main.5b65211a.js"
   ]
 }
