@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.6314aed6.css",
-    "main.js": "./static/js/main.1a39214d.js",
+    "main.js": "./static/js/main.2692fd81.js",
     "static/js/488.2cfc3739.chunk.js": "./static/js/488.2cfc3739.chunk.js",
     "static/media/medium-article-feed.webp": "./static/media/medium-article-feed.a270e3c65044991b685a.webp",
     "static/media/innovation-week-winner.webp": "./static/media/innovation-week-winner.5ca3e375afa9d2cf42fa.webp",
@@ -15,9 +15,7 @@
     "static/media/me3.webp": "./static/media/me3.28bba34ee3f7bcb82d52.webp",
     "static/media/baby.jpg": "./static/media/baby.fc34e594d61c00e586c7.jpg",
     "static/media/coding-challenge-winner.webp": "./static/media/coding-challenge-winner.c4f0a0a137f327cfa1bc.webp",
-    "static/media/innovation-week-2026-winner.webp": "./static/media/innovation-week-2026-winner.ebc2f6ab0f4c834fe996.webp",
     "static/media/me1.webp": "./static/media/me1.feb5770d38c6587b4297.webp",
-    "static/media/stop-looking-for-a-job-linkedin.webp": "./static/media/stop-looking-for-a-job-linkedin.a35b8d38e877599cfb97.webp",
     "static/media/me5.webp": "./static/media/me5.0cb8b8a00679680ce0eb.webp",
     "static/media/me9.webp": "./static/media/me9.d67ccf325fe08b98f722.webp",
     "static/media/me4.webp": "./static/media/me4.bed3ea08c105dc5f830b.webp",
@@ -26,11 +24,11 @@
     "static/media/signature.png": "./static/media/signature.60f62ddc30539bcbd38d.png",
     "index.html": "./index.html",
     "main.6314aed6.css.map": "./static/css/main.6314aed6.css.map",
-    "main.1a39214d.js.map": "./static/js/main.1a39214d.js.map",
+    "main.2692fd81.js.map": "./static/js/main.2692fd81.js.map",
     "488.2cfc3739.chunk.js.map": "./static/js/488.2cfc3739.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6314aed6.css",
-    "static/js/main.1a39214d.js"
+    "static/js/main.2692fd81.js"
   ]
 }
